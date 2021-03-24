@@ -1,0 +1,390 @@
+* {
+  outline: none !important;
+}
+
+.navbar-toggler:hover {
+  background: rgb(255,92,151) !important;
+}
+
+.navbar-span {
+  font-family: 'Montserrat', sans-serif;
+  color: rgb(255,92,151);
+  user-select: none;
+}
+
+
+.nav-span {
+  font-family: 'Montserrat', sans-serif;
+  color: rgb(81,81,81);
+  user-select: none;
+}
+
+.nav-span:hover {
+  color: rgb(255,92,151);
+}
+
+.navbar-expand-lg {
+  background: white;
+  user-select: none;
+}
+
+.navbar-toggler {
+  background: white;
+  outline-style: none;
+}
+
+.hero {
+  margin-top: 80px;
+  background-color: white;
+  height: 300px;
+}
+
+.judul_corona {
+  color: rgb(81,81,81);
+  user-select: none;
+  user-zoom: none;
+  font-family: 'Montserrat', sans-serif;
+  float: left;
+  padding-right: 10px;
+}
+
+.coronavirus {
+  color: rgb(255,92,151);
+}
+
+.deskripsi {
+  font-family: 'Poppins', sans-serif;
+}
+
+.rounded {
+  float: right;
+}
+
+.judul-indo {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.indo {
+  margin-top: 50px;
+  background-image: url("/assets/img/map/mapindo.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 500px;
+}
+
+.indopart {
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.text-nesia {
+  color: rgb(255,92,151);
+  border-bottom: 4px solid rgb(255,92,151);
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.text-indo-deskripsi {
+  color: rgb(255,92,151);
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.positif,.sembuh,.meninggal {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+
+.positif-deskripsi,.sembuh-deskripsi,.meninggal-deskripsi {
+  font-family: 'Bree Serif', serif;
+  font-size: 40px;
+}
+
+.positif-deskripsi1,.sembuh-deskripsi1,.meninggal-deskripsi1 {
+  font-family: 'Bree Serif', serif;
+  font-size: 17px;
+}
+
+
+.bg-danger1 {
+  background: rgb(255,38,57);
+}
+
+.bg-warning1 {
+  background: rgb(152,34,167);
+}
+
+.bg-success1 {
+  background: rgb(12,144,113);
+}
+
+.box {
+  margin-top: 50px;
+  padding: 30px 40px;
+  border-radius: 5px;
+}
+
+.col-md-12 {
+  margin-top: 1px;
+}
+
+.provinsi {
+  height: 1450px;
+  background: rgb(251,220,236);
+  margin-top: 0px;
+}
+
+.card {
+  margin-top: 30px;
+  box-shadow:
+  0 0.6px 2.2px rgba(0, 0, 0, 0.02),
+  0 1.3px 5.3px rgba(0, 0, 0, 0.028),
+  0 2.5px 10px rgba(0, 0, 0, 0.035),
+  0 4.5px 17.9px rgba(0, 0, 0, 0.042),
+  0 8.4px 33.4px rgba(0, 0, 0, 0.05),
+  0 20px 80px rgba(0, 0, 0, 0.07);
+
+}
+
+.card-header {
+  background: blue;
+}
+
+.tabel-container {
+  overflow-x: scroll;
+  height: 500px;
+}
+
+.footer {
+  margin-top: 0px;
+  height: 200px;
+  background-color: #16c79a;
+}
+
+.logo-footer {
+  color: #4a4f50;
+  font-size: 25px;
+  padding-top: 50px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.positif1,.sembuh1,.meninggal1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.orang1 {
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.made {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  display: block;
+}
+
+.by {
+  color: rgb(84,52,239);
+}
+
+
+/*========================
+Halaman about
+========================*/
+.about-me {
+  user-select: none;
+  margin-top: 130px;
+  text-align: center;
+  margin-left: 105px;
+  margin-right: 105px;
+  background: #5270ea;
+  font-size: 20px;
+  color: #ffffff;
+  font-family: 'Poppins', sans-serif;
+}
+
+.about-nama {
+  text-align: center;
+  margin-top: 15px;
+  font-family: 'Poppins', sans-serif;
+  color: #505252;
+}
+
+.about-desk {
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  color: #505252;
+}
+
+.profile {
+  margin-top: 40px;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  width: 200px;
+  height: 200px;
+  border: 3px solid transparent;
+  border-radius: 100%;
+}
+
+.pesan-covid {
+  height: 435px;
+  background: white;
+}
+
+.jangan-lupa {
+  font-family: 'Montserrat', sans-serif;
+  color: rgb(255,92,151);
+  user-select: none;
+}
+
+
+.img-covid1,.img-covid4 {
+  float: left;
+  width: 179px;
+}
+
+.img-covid2,.img-covid3 {
+  float: right;
+  width: 179px;
+}
+/*
+===================
+Media Query
+===================
+*/
+
+/*
+=====================
+Mobile Screen
+=====================
+*/
+
+@media only screen and (min-width: 300px) and (max-width: 700px) {
+
+  .indo {
+    height: 970px;
+    background: #e6e8f9;
+    background-position: center;
+    background-size: cover;
+
+  }
+  .box {
+    margin-top: 30px;
+  }
+
+  .bg-danger1,.bg-warning1,.bg-success1 {
+    box-shadow:
+    0 0.6px 2.2px rgba(0, 0, 0, 0.02),
+    0 1.3px 5.3px rgba(0, 0, 0, 0.028),
+    0 2.5px 10px rgba(0, 0, 0, 0.035),
+    0 4.5px 17.9px rgba(0, 0, 0, 0.042),
+    0 8.4px 33.4px rgba(0, 0, 0, 0.05),
+    0 20px 80px rgba(0, 0, 0, 0.07);
+  }
+
+
+}
+
+/*
+======================
+pc screen
+======================
+*/
+
+@media only screen and (min-width:900px) and (max-width:1300px) {
+  
+  .pesan-covid{
+    height: 400px;
+  }
+
+  .img-covid1,.img-covid4 {
+    float: left;
+    width: 239px;
+  }
+
+  .img-covid2,.img-covid3 {
+    float: right;
+    width: 239px;
+  }
+
+  .indo {
+    margin-top: 50px;
+    background-image: url("/assets/img/map/mapindo.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 400px;
+  }
+
+  .about-me {
+    margin-right: 425px;
+    margin-left: 425px;
+  }
+
+  .nav-span {
+    margin-right: 5px;
+    margin-left: 30px;
+  }
+  .hero {
+    margin-top: 120px;
+  }
+
+  .nav-span:hover {
+    color: rgb(255,92,151);
+    border-bottom: 2px solid rgb(255,92,151);;
+  }
+
+  .indopart {
+    margin-left: 42%;
+    margin-right: 42%;
+  }
+
+  .sembuh,.positif,.meninggal {
+    margin-left: -30px;
+  }
+
+  .positif1,.sembuh1,.meninggal1 {
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 0px;
+    font-size: 20px;
+  }
+
+  .judul-indo {
+    margin-left: 20px;
+  }
+
+
+  .positif-deskripsi,.sembuh-deskripsi,.meninggal-deskripsi {
+    margin-right: 10px;
+    margin-left: -30px;
+    font-size: 20px;
+    font-size: 20px;
+  }
+
+  .positif-deskripsi1,.sembuh-deskripsi1,.meninggal-deskripsi1 {
+    font-family: 'Bree Serif', serif;
+    margin-right: 10px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-size: 20px;
+  }
+
+
+  .orang {
+    margin-left: -30px;
+    font-family: 'Poppins', sans-serif;
+  }
+
+
+  .orang1 {
+    margin-left: 0px;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .provinsi {
+    margin-top: 50px;
+  }
+}
