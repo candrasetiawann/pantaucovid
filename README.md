@@ -1,0 +1,2 @@
+# pantaucovid
+Website covid sederhana
